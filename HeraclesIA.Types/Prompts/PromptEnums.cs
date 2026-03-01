@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace HeraclesIA.Types.Prompts
 {
     public enum PromptType
-    {
+    {cambios 
         [Description("Store Procedure")]
         StoreProcedure = 0,
         [Description("SQl Query")]
