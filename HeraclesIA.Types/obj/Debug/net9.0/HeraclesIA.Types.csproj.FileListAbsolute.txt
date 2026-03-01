@@ -1,0 +1,12 @@
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.Types\bin\Debug\net9.0\HeraclesIA.Types.deps.json
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.Types\bin\Debug\net9.0\HeraclesIA.Types.dll
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.Types\bin\Debug\net9.0\HeraclesIA.Types.pdb
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.Types\obj\Debug\net9.0\HeraclesIA.Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.Types\obj\Debug\net9.0\HeraclesIA.Types.AssemblyInfoInputs.cache
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.Types\obj\Debug\net9.0\HeraclesIA.Types.AssemblyInfo.cs
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.Types\obj\Debug\net9.0\HeraclesIA.Types.csproj.CoreCompileInputs.cache
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.Types\obj\Debug\net9.0\HeraclesIA.Types.sourcelink.json
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.Types\obj\Debug\net9.0\HeraclesIA.Types.dll
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.Types\obj\Debug\net9.0\refint\HeraclesIA.Types.dll
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.Types\obj\Debug\net9.0\HeraclesIA.Types.pdb
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.Types\obj\Debug\net9.0\ref\HeraclesIA.Types.dll

@@ -1,0 +1,6 @@
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.DataAccess\obj\Debug\net9.0\HeraclesIA.DataAccess.csproj.AssemblyReference.cache
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.DataAccess\obj\Debug\net9.0\HeraclesIA.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.DataAccess\obj\Debug\net9.0\HeraclesIA.DataAccess.AssemblyInfoInputs.cache
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.DataAccess\obj\Debug\net9.0\HeraclesIA.DataAccess.AssemblyInfo.cs
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.DataAccess\obj\Debug\net9.0\HeraclesIA.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.DataAccess\obj\Debug\net9.0\HeraclesIA.DataAccess.sourcelink.json

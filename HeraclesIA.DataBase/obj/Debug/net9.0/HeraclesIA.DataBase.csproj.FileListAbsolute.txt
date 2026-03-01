@@ -1,0 +1,16 @@
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.DataBase\bin\Debug\net9.0\HeraclesIA.DataBase.deps.json
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.DataBase\bin\Debug\net9.0\HeraclesIA.DataBase.dll
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.DataBase\bin\Debug\net9.0\HeraclesIA.DataBase.pdb
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.DataBase\bin\Debug\net9.0\HeraclesIA.Types.dll
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.DataBase\bin\Debug\net9.0\HeraclesIA.Types.pdb
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.DataBase\obj\Debug\net9.0\HeraclesIA.DataBase.csproj.AssemblyReference.cache
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.DataBase\obj\Debug\net9.0\HeraclesIA.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.DataBase\obj\Debug\net9.0\HeraclesIA.DataBase.AssemblyInfoInputs.cache
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.DataBase\obj\Debug\net9.0\HeraclesIA.DataBase.AssemblyInfo.cs
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.DataBase\obj\Debug\net9.0\HeraclesIA.DataBase.csproj.CoreCompileInputs.cache
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.DataBase\obj\Debug\net9.0\HeraclesIA.DataBase.sourcelink.json
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.DataBase\obj\Debug\net9.0\Heracles.93AC22AE.Up2Date
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.DataBase\obj\Debug\net9.0\HeraclesIA.DataBase.dll
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.DataBase\obj\Debug\net9.0\refint\HeraclesIA.DataBase.dll
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.DataBase\obj\Debug\net9.0\HeraclesIA.DataBase.pdb
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.DataBase\obj\Debug\net9.0\ref\HeraclesIA.DataBase.dll

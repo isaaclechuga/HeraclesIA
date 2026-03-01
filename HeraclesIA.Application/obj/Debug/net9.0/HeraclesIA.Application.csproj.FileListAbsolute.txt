@@ -1,0 +1,6 @@
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.Application\obj\Debug\net9.0\HeraclesIA.Application.csproj.AssemblyReference.cache
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.Application\obj\Debug\net9.0\HeraclesIA.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.Application\obj\Debug\net9.0\HeraclesIA.Application.AssemblyInfoInputs.cache
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.Application\obj\Debug\net9.0\HeraclesIA.Application.AssemblyInfo.cs
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.Application\obj\Debug\net9.0\HeraclesIA.Application.csproj.CoreCompileInputs.cache
+C:\Users\jmuniz\source\repos\Documentacion\HeraclesIA.Application\obj\Debug\net9.0\HeraclesIA.Application.sourcelink.json
