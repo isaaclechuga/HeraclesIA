@@ -8,11 +8,11 @@ using System.Threading.Tasks;
 namespace HeraclesIA.Types.Prompts
 {
     public enum PromptType
-    {cambios 
+    {
         [Description("Store Procedure")]
         StoreProcedure = 0,
         [Description("SQl Query")]
-        SqlQuery = 1,   
+        SqlQuery = 1,
         [Description("Message utilizado para el análisis del objetivo de un dashboard basandose en el nombre, descripción y los proveedores de datos utilizados")]
         DashboardDescription = 2,
         [Description("Evalua todo el árbol de queries del Dashboard")]
