@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("HeraclesIA.Types")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("HeraclesIA.DataAccess")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dd06d36646066c738ba6e9e494a26ab77e3bc48")]
-[assembly: System.Reflection.AssemblyProductAttribute("HeraclesIA.Types")]
-[assembly: System.Reflection.AssemblyTitleAttribute("HeraclesIA.Types")]
+[assembly: System.Reflection.AssemblyProductAttribute("HeraclesIA.DataAccess")]
+[assembly: System.Reflection.AssemblyTitleAttribute("HeraclesIA.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

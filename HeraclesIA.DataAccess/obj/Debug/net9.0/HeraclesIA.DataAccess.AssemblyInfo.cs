@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HeraclesIA.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7650e9cc875bd068f4662ec1c87fc59819ef8e52")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dd06d36646066c738ba6e9e494a26ab77e3bc48")]
 [assembly: System.Reflection.AssemblyProductAttribute("HeraclesIA.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HeraclesIA.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
